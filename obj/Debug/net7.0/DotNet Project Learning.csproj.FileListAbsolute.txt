@@ -1,0 +1,30 @@
+/Users/apple/Kishore/DotNet Project Learning/bin/Debug/net7.0/DotNet Project Learning
+/Users/apple/Kishore/DotNet Project Learning/bin/Debug/net7.0/DotNet Project Learning.deps.json
+/Users/apple/Kishore/DotNet Project Learning/bin/Debug/net7.0/DotNet Project Learning.runtimeconfig.json
+/Users/apple/Kishore/DotNet Project Learning/bin/Debug/net7.0/DotNet Project Learning.dll
+/Users/apple/Kishore/DotNet Project Learning/bin/Debug/net7.0/DotNet Project Learning.pdb
+/Users/apple/Kishore/DotNet Project Learning/obj/Debug/net7.0/DotNet Project Learning.csproj.AssemblyReference.cache
+/Users/apple/Kishore/DotNet Project Learning/obj/Debug/net7.0/DotNet Project Learning.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Kishore/DotNet Project Learning/obj/Debug/net7.0/DotNet Project Learning.AssemblyInfoInputs.cache
+/Users/apple/Kishore/DotNet Project Learning/obj/Debug/net7.0/DotNet Project Learning.AssemblyInfo.cs
+/Users/apple/Kishore/DotNet Project Learning/obj/Debug/net7.0/DotNet Project Learning.csproj.CoreCompileInputs.cache
+/Users/apple/Kishore/DotNet Project Learning/obj/Debug/net7.0/DotNet Project Learning.dll
+/Users/apple/Kishore/DotNet Project Learning/obj/Debug/net7.0/refint/DotNet Project Learning.dll
+/Users/apple/Kishore/DotNet Project Learning/obj/Debug/net7.0/DotNet Project Learning.pdb
+/Users/apple/Kishore/DotNet Project Learning/obj/Debug/net7.0/DotNet Project Learning.genruntimeconfig.cache
+/Users/apple/Kishore/DotNet Project Learning/obj/Debug/net7.0/ref/DotNet Project Learning.dll
+/Users/apple/Kishore/DotNet Projects/DotNet Project Learning/bin/Debug/net7.0/DotNet Project Learning
+/Users/apple/Kishore/DotNet Projects/DotNet Project Learning/bin/Debug/net7.0/DotNet Project Learning.deps.json
+/Users/apple/Kishore/DotNet Projects/DotNet Project Learning/bin/Debug/net7.0/DotNet Project Learning.runtimeconfig.json
+/Users/apple/Kishore/DotNet Projects/DotNet Project Learning/bin/Debug/net7.0/DotNet Project Learning.dll
+/Users/apple/Kishore/DotNet Projects/DotNet Project Learning/bin/Debug/net7.0/DotNet Project Learning.pdb
+/Users/apple/Kishore/DotNet Projects/DotNet Project Learning/obj/Debug/net7.0/DotNet Project Learning.csproj.AssemblyReference.cache
+/Users/apple/Kishore/DotNet Projects/DotNet Project Learning/obj/Debug/net7.0/DotNet Project Learning.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Kishore/DotNet Projects/DotNet Project Learning/obj/Debug/net7.0/DotNet Project Learning.AssemblyInfoInputs.cache
+/Users/apple/Kishore/DotNet Projects/DotNet Project Learning/obj/Debug/net7.0/DotNet Project Learning.AssemblyInfo.cs
+/Users/apple/Kishore/DotNet Projects/DotNet Project Learning/obj/Debug/net7.0/DotNet Project Learning.csproj.CoreCompileInputs.cache
+/Users/apple/Kishore/DotNet Projects/DotNet Project Learning/obj/Debug/net7.0/DotNet Project Learning.dll
+/Users/apple/Kishore/DotNet Projects/DotNet Project Learning/obj/Debug/net7.0/refint/DotNet Project Learning.dll
+/Users/apple/Kishore/DotNet Projects/DotNet Project Learning/obj/Debug/net7.0/DotNet Project Learning.pdb
+/Users/apple/Kishore/DotNet Projects/DotNet Project Learning/obj/Debug/net7.0/DotNet Project Learning.genruntimeconfig.cache
+/Users/apple/Kishore/DotNet Projects/DotNet Project Learning/obj/Debug/net7.0/ref/DotNet Project Learning.dll

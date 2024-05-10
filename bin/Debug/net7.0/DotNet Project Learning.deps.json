@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DotNet Project Learning/1.0.0": {
+        "runtime": {
+          "DotNet Project Learning.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotNet Project Learning/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
